@@ -3,3 +3,4 @@ when you exit a person: bye
 when you converse a person: fine weather
 when you receive from a person: thank you
 when you give to a person: youre welcome
+when u go to the shop: Show me your wares, merchant.
